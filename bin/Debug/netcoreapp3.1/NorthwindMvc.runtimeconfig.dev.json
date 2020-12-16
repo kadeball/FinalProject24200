@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bunny\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bunny\\.nuget\\packages"
+    ]
+  }
+}
